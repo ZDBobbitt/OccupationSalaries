@@ -1,0 +1,498 @@
+"country","city","cost","id"
+"Australia","Perth",84.62,12
+"Australia","Brisbane",79.91,12
+"Australia","Adelaide",84.1,12
+"Australia","Sydney",90.24,12
+"Australia","Newcastle",78.09,12
+"Australia","Hobart",80.64,12
+"Australia","Gold Coast",73.68,12
+"Australia","Darwin",82.73,12
+"Australia","Canberra",79.23,12
+"Australia","Melbourne",84.48,12
+"Austria","Linz",88.88,13
+"Austria","Vienna",78.05,13
+"Austria","Graz",81.47,13
+"Belgium","Brussels",84.16,8
+"Belgium","Gent",85.03,8
+"Belgium","Antwerp",87.19,8
+"Belgium","Leuven",84.62,8
+"Bosnia And Herzegovina","Banja Luka",39.65,45
+"Bosnia And Herzegovina","Sarajevo",43.52,45
+"Brazil","Recife",51.1,34
+"Brazil","Salvador",50.65,34
+"Brazil","Brasilia",53.9,34
+"Brazil","Campinas",56.17,34
+"Brazil","Porto Alegre",52.58,34
+"Brazil","Florianopolis",50.03,34
+"Brazil","Curitiba",48.31,34
+"Brazil","Sao Paulo",56.03,34
+"Brazil","Belo Horizonte",50.71,34
+"Brazil","Fortaleza",51.46,34
+"Brazil","Rio De Janeiro",55.47,34
+"Bulgaria","Plovdiv",40.23,44
+"Bulgaria","Sofia",43.33,44
+"Bulgaria","Varna",42.46,44
+"Bulgaria","Burgas",41.29,44
+"Canada","Burnaby",69.62,21
+"Canada","Halifax",79.87,21
+"Canada","Red Deer",74.37,21
+"Canada","Guelph",71.29,21
+"Canada","London",67.93,21
+"Canada","Moncton",70.64,21
+"Canada","Ottawa",67.75,21
+"Canada","Windsor",70.5,21
+"Canada","Gatineau",66.63,21
+"Canada","Hamilton",65.26,21
+"Canada","Kelowna",73.44,21
+"Canada","Regina",71.81,21
+"Canada","Saskatoon",79.37,21
+"Canada","Calgary",74.36,21
+"Canada","Quebec City",69.52,21
+"Canada","Mississauga",71.08,21
+"Canada","Victoria",73.53,21
+"Canada","Brampton",76.33,21
+"Canada","Vancouver",74.28,21
+"Canada","Surrey",66.09,21
+"Canada","Toronto",74.97,21
+"Canada","Edmonton",73.77,21
+"Canada","Thunder Bay",77.07,21
+"Canada","Barrie",77.46,21
+"Canada","Winnipeg",68.15,21
+"Canada","Waterloo",69.38,21
+"Canada","Kitchener",62.98,21
+"Canada","Montreal",69.04,21
+"Canada","Kingston",73.95,21
+"Canada","Burlington",72.95,21
+"China","Guangzhou",44.31,41
+"China","Shanghai",56.34,41
+"China","Chengdu",39.93,41
+"China","Suzhou",40.09,41
+"China","Shenzhen",50.33,41
+"China","Beijing",46.62,41
+"Colombia","Bogota",38.16,55
+"Colombia","Medellin",34.97,55
+"Colombia","Cali",32.47,55
+"Croatia","Rijeka",58.19,29
+"Croatia","Osijek",49.18,29
+"Croatia","Zagreb",58.22,29
+"Croatia","Split",58.03,29
+"Cyprus","Nicosia",66.56,25
+"Cyprus","Limassol",63.53,25
+"Cyprus","Larnaca",60.21,25
+"Czech Republic","Ostrava",45.86,38
+"Czech Republic","Prague",54.47,38
+"Czech Republic","Brno",50.84,38
+"Czech Republic","Olomouc",46.37,38
+"Denmark","Arhus",91.19,3
+"Denmark","Aalborg",91.71,3
+"Denmark","Copenhagen",97.78,3
+"Ecuador","Cuenca",38.83,36
+"Ecuador","Guayaquil",50.04,36
+"Ecuador","Quito",50.06,36
+"Egypt","Cairo",26.93,60
+"Egypt","Alexandria",23.98,60
+"Estonia","Tallinn",60.53,28
+"Estonia","Tartu",55.73,28
+"Finland","Tampere",86.96,5
+"Finland","Helsinki",89.38,5
+"Finland","Turku",81.98,5
+"France","Bordeaux",84.92,6
+"France","Nice",87.14,6
+"France","Montpellier",90.58,6
+"France","Lille",77.23,6
+"France","Strasbourg",86.41,6
+"France","Marseille",70.57,6
+"France","Paris",93.27,6
+"France","Grenoble",87.89,6
+"France","Lyon",86.54,6
+"France","Toulouse",82.61,6
+"Germany","Stuttgart",74.56,19
+"Germany","Darmstadt",70.64,19
+"Germany","Bonn",73.22,19
+"Germany","Mannheim",75.07,19
+"Germany","Berlin",74.43,19
+"Germany","Hamburg",79.99,19
+"Germany","Hanover",69.99,19
+"Germany","Leipzig",71.5,19
+"Germany","Dusseldorf",82.06,19
+"Germany","Nuremberg",72.96,19
+"Germany","Dresden",70.85,19
+"Germany","Frankfurt",80.75,19
+"Germany","Bremen",73.64,19
+"Germany","Karlsruhe",75.32,19
+"Germany","Cologne",73.3,19
+"Germany","Aachen",72.64,19
+"Germany","Munich",83.94,19
+"Germany","Heidelberg",77.45,19
+"Greece","Thessaloniki",64.68,23
+"Greece","Patras",57.4,23
+"Greece","Athens",65.09,23
+"Hungary","Debrecen",43.9,43
+"Hungary","Budapest",50.84,43
+"Hungary","Szeged",44.94,43
+"India","Mysore",24.35,59
+"India","Thiruvananthapuram",20.5,59
+"India","Patna",25.89,59
+"India","Indore",26.84,59
+"India","Gurgaon",34.37,59
+"India","Guwahati",24.4,59
+"India","Chandigarh",28.47,59
+"India","Noida",31.61,59
+"India","Bangalore",29.43,59
+"India","Pune",29.53,59
+"India","Nagpur",26.11,59
+"India","Lucknow (Lakhnau)",26.73,59
+"India","Navi Mumbai",22.81,59
+"India","Thane",28.93,59
+"India","Goa",27.75,59
+"India","Hyderabad",25.78,59
+"India","Jaipur",27.26,59
+"India","Mumbai",32.06,59
+"India","Bhubaneswar",24.46,59
+"India","Kolkata",27.27,59
+"India","Delhi",31.53,59
+"India","Coimbatore",24.4,59
+"India","Visakhapatnam",23.81,59
+"India","Vadodara",24.65,59
+"India","Ahmedabad",27.76,59
+"India","Kochi",23.93,59
+"India","Chennai",27.39,59
+"India","Bhopal",24.73,59
+"India","Mangalore",24.74,59
+"India","Surat",27.85,59
+"Indonesia","Bali",43.63,52
+"Indonesia","Yogyakarta",39.35,52
+"Indonesia","Bandung",37.6,52
+"Indonesia","Medan",37.22,52
+"Indonesia","Surabaya",39.16,52
+"Indonesia","Jakarta",46.25,52
+"Iraq","Irbil",49,40
+"Iraq","Baghdad",46.31,40
+"Ireland","Dublin",89.42,7
+"Ireland","Limerick",87.95,7
+"Ireland","Galway",81.32,7
+"Ireland","Cork",82.72,7
+"Israel","Haifa",79.06,11
+"Israel","Ramat Gan",80.37,11
+"Israel","Tel Aviv-Yafo",85.61,11
+"Israel","Jerusalem",87.55,11
+"Italy","Rome",77.54,15
+"Italy","Parma",81.62,15
+"Italy","Trieste",76.85,15
+"Italy","Genoa",84.41,15
+"Italy","Bologna",79.45,15
+"Italy","Palermo",67.61,15
+"Italy","Turin",74.14,15
+"Italy","Florence",85.31,15
+"Italy","Naples",70.04,15
+"Italy","Milan",83.62,15
+"Italy","Padova",80.63,15
+"Japan","Tokyo",96.56,4
+"Japan","Osaka",81.92,4
+"Kazakhstan","Astana",38.31,54
+"Kazakhstan","Almaty",37.36,54
+"Lithuania","Kaunas",51.9,32
+"Lithuania","Vilnius",54.92,32
+"Lithuania","Klaipeda",51.9,32
+"Malaysia","Johor Bahru",51.04,39
+"Malaysia","Petaling Jaya",49.52,39
+"Malaysia","Selangor",46.4,39
+"Malaysia","Penang",49.3,39
+"Malaysia","Kuala Lumpur",47.21,39
+"Malaysia","Kota Kinabalu",47.74,39
+"Malta","Malta",69.01,18
+"Malta","Sliema",79.76,18
+"Mexico","Monterrey",38.48,56
+"Mexico","Puebla",32.77,56
+"Mexico","Puerto Vallarta",32.71,56
+"Mexico","Merida",33.17,56
+"Mexico","Mexico City",38.27,56
+"Mexico","Tijuana",34.4,56
+"Mexico","Guadalajara",34.73,56
+"Mexico","Chihuahua",36.63,56
+"Mexico","Queretaro",33.64,56
+"Mexico","Cancun",35.25,56
+"Morocco","Rabat",41.84,48
+"Morocco","Casablanca",39.02,48
+"Netherlands","Groningen",78.18,14
+"Netherlands","Eindhoven",78.86,14
+"Netherlands","Utrecht",82.94,14
+"Netherlands","The Hague (Den Haag)",84.22,14
+"Netherlands","Rotterdam",81.29,14
+"Netherlands","Maastricht",80.61,14
+"Netherlands","Amsterdam",89.58,14
+"New Zealand","Hamilton",86.76,10
+"New Zealand","Auckland",88.27,10
+"New Zealand","Christchurch",80.44,10
+"New Zealand","Wellington",80.37,10
+"Norway","Bergen",111.04,2
+"Norway","Trondheim",113.64,2
+"Norway","Oslo",117.47,2
+"Norway","Stavanger",120.6,2
+"Pakistan","Islamabad",29.87,57
+"Pakistan","Karachi",26.7,57
+"Pakistan","Lahore",28.92,57
+"Philippines","Cebu",40.39,49
+"Philippines","Quezon City",33.14,49
+"Philippines","Makati",53.85,49
+"Philippines","Davao",33.03,49
+"Philippines","Manila",40.7,49
+"Poland","Szczecin",44.14,42
+"Poland","Wroclaw",46.13,42
+"Poland","Lublin",42.06,42
+"Poland","Krakow (Cracow)",45.74,42
+"Poland","Katowice",42.43,42
+"Poland","Bydgoszcz",44.55,42
+"Poland","Lodz",43.88,42
+"Poland","Warsaw",48.6,42
+"Poland","Poznan",45.35,42
+"Poland","Gdansk",49.5,42
+"Poland","Gdynia",48.25,42
+"Portugal","Braga",52.43,30
+"Portugal","Funchal",57.78,30
+"Portugal","Coimbra",54.51,30
+"Portugal","Porto",55.82,30
+"Portugal","Lisbon",58.83,30
+"Romania","Cluj-Napoca",40.4,51
+"Romania","Sibiu",39.6,51
+"Romania","Bucharest",44.98,51
+"Romania","Iasi",40.79,51
+"Romania","Brasov",38.56,51
+"Romania","Craiova",34.46,51
+"Romania","Constanta",39.15,51
+"Romania","Arad",37.59,51
+"Romania","Oradea",38.69,51
+"Romania","Timisoara",41.53,51
+"Russia","Moscow",51.55,50
+"Russia","Krasnodar",38.47,50
+"Russia","Samara",43.31,50
+"Russia","Rostov-na-donu",38.39,50
+"Russia","Novosibirsk",39.71,50
+"Russia","Kazan",39.12,50
+"Russia","Yekaterinburg",42.07,50
+"Russia","Saint Petersburg",46.42,50
+"Russia","Nizhny Novgorod",39.58,50
+"Saudi Arabia","Riyadh",49.65,33
+"Saudi Arabia","Ad Dammam",51.19,33
+"Saudi Arabia","Al Khobar",52.14,33
+"Saudi Arabia","Jeddah (Jiddah)",51.88,33
+"Serbia","Belgrade",44.5,53
+"Serbia","Nis",38.18,53
+"Serbia","Novi Sad",39.06,53
+"Slovakia","Martin",60.69,31
+"Slovakia","Kosice",51.15,31
+"Slovakia","Bratislava",54.04,31
+"Slovenia","Ljubljana",63.63,27
+"Slovenia","Maribor",54.26,27
+"South Africa","Durban",48.85,35
+"South Africa","Cape Town",49.95,35
+"South Africa","Port Elizabeth",50.33,35
+"South Africa","Johannesburg",53.44,35
+"South Africa","Pretoria",55.68,35
+"South Korea","Seoul",89.27,9
+"South Korea","Busan",79.16,9
+"Spain","Barcelona",69.4,26
+"Spain","Santa Cruz De Tenerife",53.32,26
+"Spain","Granada",54.99,26
+"Spain","Las Palmas",52.83,26
+"Spain","Sevilla",59.66,26
+"Spain","Bilbao",74.05,26
+"Spain","Palma De Mallorca",73.22,26
+"Spain","Madrid",68.64,26
+"Spain","Zaragoza (Saragossa)",65.34,26
+"Spain","Valencia",60.41,26
+"Spain","Malaga",57.45,26
+"Sweden","Uppsala",78.91,16
+"Sweden","Malmo",78.08,16
+"Sweden","Stockholm",90.03,16
+"Sweden","Lund",78.12,16
+"Sweden","Gothenburg",82.57,16
+"Switzerland","Zurich",145.45,1
+"Switzerland","Lausanne",131.46,1
+"Switzerland","Bern",133.17,1
+"Switzerland","Zug",145.43,1
+"Switzerland","Lugano",121.48,1
+"Switzerland","Basel",134.52,1
+"Switzerland","Geneva",135.38,1
+"Taiwan","Kaohsiung",61.71,22
+"Taiwan","Taichung",67.96,22
+"Taiwan","Taipei",72.71,22
+"Thailand","Phuket",51.62,37
+"Thailand","Bangkok",56.66,37
+"Thailand","Pattaya",47.02,37
+"Thailand","Chiang Mai",45.91,37
+"Turkey","Ankara",41.79,46
+"Turkey","Bursa",41.15,46
+"Turkey","Antalya",38.93,46
+"Turkey","Istanbul",45.52,46
+"Turkey","Izmir",41.34,46
+"Ukraine","Lviv",27.03,58
+"Ukraine","Kharkiv",26.5,58
+"Ukraine","Dnipropetrovsk",27.95,58
+"Ukraine","Odesa",31.39,58
+"Ukraine","Kiev",29.28,58
+"United Arab Emirates","Dubai",73.1,24
+"United Arab Emirates","Sharjah",59.6,24
+"United Arab Emirates","Abu Dhabi",63.86,24
+"United Kingdom","Leeds",75.53,17
+"United Kingdom","Portsmouth",80.95,17
+"United Kingdom","Edinburgh",79.98,17
+"United Kingdom","Birmingham",72.72,17
+"United Kingdom","Nottingham",74.66,17
+"United Kingdom","Newcastle Upon Tyne",70.05,17
+"United Kingdom","Norwich",75.56,17
+"United Kingdom","Bath",86.5,17
+"United Kingdom","York",78.74,17
+"United Kingdom","Liverpool",71.11,17
+"United Kingdom","Coventry",76.48,17
+"United Kingdom","Cardiff",70.83,17
+"United Kingdom","Reading",86.16,17
+"United Kingdom","Derby",69.11,17
+"United Kingdom","Oxford",81.44,17
+"United Kingdom","Glasgow",74.71,17
+"United Kingdom","Southampton",72.1,17
+"United Kingdom","Sheffield",71.97,17
+"United Kingdom","Exeter",73.11,17
+"United Kingdom","Milton Keynes",86.94,17
+"United Kingdom","Bristol",77.04,17
+"United Kingdom","London",89.55,17
+"United Kingdom","Aberdeen",83.49,17
+"United Kingdom","Belfast",69.42,17
+"United Kingdom","Brighton",76.2,17
+"United Kingdom","Leicester",73.09,17
+"United Kingdom","Cambridge",83.36,17
+"United Kingdom","Manchester",78.48,17
+"United States","Salem, OR",70.06,20
+"United States","Ann Arbor, MI",70.96,20
+"United States","Bloomington, IN",93.39,20
+"United States","Santa Rosa, CA",90.58,20
+"United States","Brooklyn, NY",95.14,20
+"United States","Honolulu, HI",94.62,20
+"United States","Arlington, VA",89.35,20
+"United States","Seattle, WA",89.15,20
+"United States","Washington, DC",90.58,20
+"United States","Bellevue, WA",89.62,20
+"United States","New York, NY",100,20
+"United States","San Francisco, CA",97.73,20
+"United States","Anchorage, AK",96.04,20
+"United States","Memphis, TN",72.95,20
+"United States","Tallahassee, FL",72.77,20
+"United States","Shreveport, LA",72.69,20
+"United States","Newark, NJ",72.61,20
+"United States","Akron, OH",72.59,20
+"United States","Fresno, CA",72.18,20
+"United States","Raleigh, NC",72.14,20
+"United States","Nashville, TN",72.13,20
+"United States","Allentown, PA",72.09,20
+"United States","Rochester, NY",71.97,20
+"United States","Las Vegas, NV",71.25,20
+"United States","Syracuse, NY",71.18,20
+"United States","Detroit, MI",70.97,20
+"United States","Oklahoma City, OK",64.73,20
+"United States","Virginia Beach, VA",70.93,20
+"United States","Saint Louis, MO",70.85,20
+"United States","Bakersfield, CA",70.85,20
+"United States","Little Rock, AR",70.47,20
+"United States","Columbus, OH",70.13,20
+"United States","Knoxville, TN",61.84,20
+"United States","Dayton, OH",70.05,20
+"United States","Fort Myers, FL",69.74,20
+"United States","Columbia, SC",69.68,20
+"United States","Des Moines, IA",69.49,20
+"United States","Fort Wayne, IN",69.36,20
+"United States","Spokane, WA",69.33,20
+"United States","Winston-salem, NC",69.05,20
+"United States","Richmond, VA",68.99,20
+"United States","Houston, TX",68.94,20
+"United States","Lincoln, NE",68.27,20
+"United States","Kansas City, MO",68.16,20
+"United States","Lexington, KY",67.94,20
+"United States","Omaha, NE",67.93,20
+"United States","Fort Worth, TX",67.87,20
+"United States","Cincinnati, OH",67.87,20
+"United States","Vancouver, WA",67.33,20
+"United States","Chattanooga, TN",67.3,20
+"United States","Grand Rapids, MI",67.25,20
+"United States","Lubbock, TX",67.16,20
+"United States","Wichita, KS",67.09,20
+"United States","Salt Lake City, UT",67.04,20
+"United States","Durham, NC",66.91,20
+"United States","Tulsa, OK",66.81,20
+"United States","Phoenix, AZ",66.81,20
+"United States","Riverside, CA",66.64,20
+"United States","Albuquerque, NM",66.52,20
+"United States","Springfield, MO",66.34,20
+"United States","Dallas, TX",66.2,20
+"United States","Louisville, KY",65.32,20
+"United States","Madison, WI",65.3,20
+"United States","Mobile, AL",65.27,20
+"United States","Pensacola, FL",64.97,20
+"United States","Arlington, TX",64.83,20
+"United States","Baltimore, MD",77.43,20
+"United States","Iowa City, IA",64.44,20
+"United States","Reno, NV",64.11,20
+"United States","Tucson, AZ",63.36,20
+"United States","Huntsville, AL",62.69,20
+"United States","Boise, ID",62.51,20
+"United States","West Palm Beach, FL",76.54,20
+"United States","College Station, TX",61.82,20
+"United States","San Antonio, TX",61.36,20
+"United States","Athens, GA",60.46,20
+"United States","Charleston, SC",88.68,20
+"United States","Berkeley, CA",88.57,20
+"United States","Miami, FL",87.03,20
+"United States","Boston, MA",85.97,20
+"United States","Irvine, CA",85.52,20
+"United States","Oakland, CA",84.6,20
+"United States","New Haven, CT",83.48,20
+"United States","Boulder, CO",82.86,20
+"United States","Philadelphia, PA",82.72,20
+"United States","San Jose, CA",82.11,20
+"United States","Los Angeles, CA",82.05,20
+"United States","Portland, ME",81.46,20
+"United States","Chicago, IL",81.34,20
+"United States","Albany, NY",81.29,20
+"United States","Hartford, CT",80.85,20
+"United States","Norfolk, VA",80.75,20
+"United States","Minneapolis, MN",80.71,20
+"United States","Tacoma, WA",80.35,20
+"United States","Burlington, VT",80.31,20
+"United States","Jersey City, NJ",79.9,20
+"United States","Long Beach, CA",79.65,20
+"United States","Queens, NY",79.45,20
+"United States","Olympia, WA",79.26,20
+"United States","Santa Barbara, CA",79.23,20
+"United States","Pittsburgh, PA",79.18,20
+"United States","Eugene, OR",78.26,20
+"United States","Portland, OR",78,20
+"United States","Sacramento, CA",77.84,20
+"United States","Saint Paul, MN",77.64,20
+"United States","Tampa, FL",77.44,20
+"United States","Greenville, SC",75.4,20
+"United States","Denver, CO",77.33,20
+"United States","San Diego, CA",77.2,20
+"United States","New Orleans, LA",76.99,20
+"United States","Bellingham, WA",76.67,20
+"United States","Asheville, NC",76.57,20
+"United States","Buffalo, NY",74.48,20
+"United States","Charlotte, NC",76.48,20
+"United States","Fort Lauderdale, FL",76.35,20
+"United States","Orlando, FL",76.11,20
+"United States","Plano, TX",76.08,20
+"United States","Colorado Springs, CO",75.88,20
+"United States","Melbourne, FL",75.64,20
+"United States","Saint Petersburg, FL",73.32,20
+"United States","Everett, WA",75.39,20
+"United States","Atlanta, GA",75.01,20
+"United States","Fayetteville, AR",74.59,20
+"United States","Indianapolis, IN",74.58,20
+"United States","Jacksonville, FL",74.51,20
+"United States","Fort Collins, CO",74.12,20
+"United States","Augusta, GA",74.48,20
+"United States","Austin, TX",74.29,20
+"United States","Birmingham, AL",74.14,20
+"United States","Cleveland, OH",73.05,20
+"United States","Milwaukee, WI",73.48,20
+"United States","Greensboro, NC",73.47,20
+"Vietnam","Hanoi",40.83,47
+"Vietnam","Ho Chi Minh City",40.23,47
